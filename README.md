@@ -7,8 +7,8 @@ An application for making and extracting `.modcomponent` files used by [ModCompo
 The Program takes exactly one argument
 
 On Windows, either:
-* Drop a modcomponent file to extract it into a folder
-* Drop a folder to compress it into a modcomponent file
+* Drop a modcomponent file onto the exe to extract it into a folder
+* Drop a folder onto the exe to compress it into a modcomponent file
 
 On Mac / Linux, either:
 * Pass a modcomponent file path as an argument in the terminal to extract it into a folder

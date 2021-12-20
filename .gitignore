@@ -1,5 +1,5 @@
 bin
-*.csproj.user
+*.user
 obj
 .vs
 .idea
